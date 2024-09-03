@@ -1,2 +1,2 @@
 #LINK
-https://colab.research.google.com/github/SaltyChip703/chipathon2024_dac/blob/main/TsengsTransmissionGate.ipynb 
+https://colab.research.google.com/drive/1y9y0LscGItJEhuibj8zdyN7wfuLP41rA?usp=sharing
